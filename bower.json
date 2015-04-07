@@ -1,0 +1,10 @@
+{
+  "name": "bulkaria-bknd",
+  "private": "true",
+  "devDependencies": {},
+  "dependencies": {
+    "firebase": "~2.2.3",
+    "angularfire": "~1.0.0",
+    "ng-admin": "~0.6.0"
+  }
+}

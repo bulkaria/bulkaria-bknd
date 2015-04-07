@@ -1,0 +1,25 @@
+{
+  "name": "bulkaria-bknd",
+  "version": "1.0.0",
+  "description": "Bulkaria Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netconsult/bulkaria-bknd.git"
+  },
+  "keywords": [
+    "bulkaria"
+  ],
+  "author": "Federico Brinkworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netconsult/bulkaria-bknd/issues"
+  },
+  "homepage": "https://github.com/netconsult/bulkaria-bknd",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
